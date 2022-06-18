@@ -27,8 +27,7 @@ const Banner = () => {
               <span className="md:hidden"> we are redisigning ourselves! </span>
               <span className="hidden md:inline">
                 {" "}
-                Big news! We're excited to announce we are redisigning
-                ourselves.{" "}
+                Big news! Were excited to announce we are redisigning ourselves.{" "}
               </span>
             </p>
           </div>
